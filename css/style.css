@@ -314,6 +314,10 @@ footer {
     height: 40vh; */
   }
 
+  footer {
+    display: block;
+  }
+
   .foot-bar {
     display: flex;
     flex-direction: row;
@@ -332,7 +336,7 @@ footer {
   }
 
   .footer-icons {
-    display: flex;
+    display: block;
     flex-direction: row;
   }
 
